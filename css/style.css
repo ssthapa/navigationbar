@@ -50,7 +50,7 @@ ul li a{
 	.active{
 		display: block;
 	}
-	.fa-bars{
-	cursor: pointer;
+	.menu{
+		cursor: pointer;
 	}
 }
