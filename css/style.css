@@ -34,9 +34,6 @@ ul li a{
 	font-size: 30px;
 	display: none;
 }
-.fa-bars{
-	cursor: pointer;
-}
 
 @media (max-width: 768px){
 	.toggle{
@@ -52,5 +49,8 @@ ul li a{
 	}
 	.active{
 		display: block;
+	}
+	.fa-bars{
+	cursor: pointer;
 	}
 }
